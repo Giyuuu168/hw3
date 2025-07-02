@@ -4,6 +4,7 @@ body {
   margin: 0;
   background-color: #f1f8fc;
   color: #333;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .hero {
@@ -42,6 +43,7 @@ ul {
 .exploration {
   text-align: center;
   padding: 20px;
+  margin-top: 20px;
 }
 
 .image-row {
@@ -89,8 +91,12 @@ th, td {
   text-align: left;
   max-width: 800px;
   margin: auto;
+  
 }
-
+.contact a{
+ text-decoration: none;
+  color: black; 
+}
 footer {
   background-color: #155dd4;
   color: white;
